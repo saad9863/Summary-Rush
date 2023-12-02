@@ -1,5 +1,7 @@
 Summary Rush
 
+Hosted on firebase:https://summaryrush.web.app/
+
 Summary Rush is an open-source web application that utilizes OpenAI GPT-4 to generate clear and concise summaries of your favorite articles.
 
 
